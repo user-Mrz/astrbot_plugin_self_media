@@ -1,0 +1,7 @@
+name: astrbot_plugin_self_media
+display_name: 自我形象管理
+desc: 让小鲸鱼自己换 QQ 头像、把网上的图收进表情包库。提供 set_my_avatar / add_sticker 两个 LLM 工具。
+version: 0.1.0
+author: local
+repo: ""
+astrbot_version: ">=4.18.2"
